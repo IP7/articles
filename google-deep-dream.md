@@ -1,4 +1,4 @@
-﻿Les réseaux de neurones rêvent-ils de moutons mécaniques ?
+## Les réseaux de neurones rêvent-ils de moutons mécaniques ?
 
 Le rêve, c’est notre cerveau qui créer des images à partir de celles qu’il a vu et analysées et en ressort les critères marquant. L’intelligence artificielle a énormément progressée ces dernières années, mais est-elle capable d'avoir de l'imagination ?
 
