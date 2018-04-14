@@ -1,7 +1,5 @@
 ### La naissance de l'informatique
 
-L'informatique est profondément ancrée dans nos modes de vie et dans l'imaginaire collectif. Pourtant, quand on y réfléchit, il est très difficile d'y associer le large spectre de domaines qu'il couvre tant ils sont variés: du partage de vidéos ou de photos aux simulations numériques qui envoient des fusées dans l'espace.
-
 Au début du XXème siècle s'est produit ce qu'on appelle "la crise des fondements": une révolution mathématique au cours de laquelle les chercheurs ont voulu construire toutes les mathématiques sur des bases solides. Les mathématiciens de l'époque se demandent alors si, en utilisant des algorithmes, une théorie universelle pourrait démontrer toutes les mathématiques. C'est la naissance de la logique.
 
 C'est ici qu'intervient un des logiciens les plus célèbres de l'histoire de l'informatique, Alan Turing. Il imagine alors: une machine capable de lire les caractères imprimés sur un ruban de taille infinie, à raison d'un caractère à la fois, de remplacer ce caractère en suivant des règles définies -- qui correspondraient au programme --, et de déplacer le ruban vers la droite ou la gauche. Il avance la thèse qu'il existe un programme sur sa machine pour chaque algorithme. Dès lors, on dira que quelque chose est "calculable" si une machine de Turing est capable de la calculer. L'informatique moderne était née.
