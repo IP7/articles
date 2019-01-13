@@ -1,0 +1,12 @@
+Les langues qui défiaient l'infini
+==================================
+
+Dans la préface du _Principia mathematica_ de Newton, Voltaire écrivait "[qu']il a fallut que les modernes créassent de nouveaux mots pour rendre ces nouvelles idées." Aussi, sait-on depuis longtemps que le langage, quelqu'en soit la forme, influence la pensée; que l'un modèle l'autre à sa modalité active dans un équilibre instable.
+
+C'est sur cette catégorie de problèmes que nous allons nous pencher maintenant. Un problème de décision est une question dont la réponse est soit "oui" soit "non", par exemple "cette formule arithmétique est-elle correcte ?". Au début du vingtième siècle la mathématicien allemand **David Hilbert** se demandait s'il existait des algorithmes pour résoudre des problèmes mathématiques.
+
+On qualifiera un problème de décidable s'il existe une machine qui renvoi "oui" à tous les mots acceptés par le problème et "non" à tous les autres. C'est là que les ennuis commencent, tous les langages ne sont pas décidables : dès lors que toute machine qui _implémente_ le langage n'est plus absolument sûre de terminer, alors celui ci n'est plus décidable. On dit alors qu'il est indécidable. Une manière intuitive d'exprimer ce que serait un problème indécidable, serait de se dire que dans certains cas il faudrait un temps infini pour le résoudre.
+
+La suite de notre périple a lieux en 1931 lorsque **Kurt Godël** publie un article intitulé _Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme_. Dans cet article il énonce puis démontre le théorème suivant "Dans n'importe qu'elle théorie [...] cohérente et capable de formaliser l'arithmétique, on peut construire un énoncé arithmétique qui ne peut être ni démontré, ni réfuté dans cette théorie." Ce, qui en subtance, signifie que le problème de décision pris en exemple plus haut "cette formule arithmétique est-elle correcte ?" est indécidable quelque soit la manière qu'on aurait de l'exprimer.
+
+Ce théorème mis d'une part fin au rêve de Hilbert et d'autre part nous montra les limites de nos langages, les langages mathématiques ne sont qu'un version extrèmement minimaliste des langages naturels que nous utilisons tous les jours. Aussi intelligent pourrions nous être, il existera toujours des problèmes que nous ne pourrons pas résoudre si nous ne changeons pas de manière de les exprimer. Peut être qu'au delà de ce que disait Voltaire, il aurait fallu que nous créassions de nouvelles langues pour rendre des nouvelles idées.
